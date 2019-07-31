@@ -32,15 +32,49 @@
       "dia": 26,
       "mes": 8,
       "year": 2019,
-      "hora": 11,
+      "hora": 18,
       "minuto": 30
     },
     {
       "dia": 27,
       "mes": 8,
       "year": 2019,
-      "hora": 11,
+      "hora": 18,
       "minuto": 30
+    }
+  ],
+  "miembros": [
+    {
+      "nombre": "Alejandro",
+      "apellidos": "Corral"
+    },
+    {
+      "nombre": "David",
+      "apellidos": "Saa"
+    },
+    {
+      "nombre": "Mariana",
+      "apellidos": "Díaz"
+    },
+    {
+      "nombre": "Lois",
+      "apellidos": "Pardo"
+    },
+    {
+      "nombre": "Angel",
+      "apellidos": "Rodríguez"
+    },
+    {
+      "nombre": "Carlos",
+      "apellidos": "López"
+    },
+    {
+      "nombre": "André",
+      "apellidos": "Eiriz"
+    },
+    {
+      "nombre": "Martín",
+      "apellidos": "Gómez"
     }
   ]
 }
