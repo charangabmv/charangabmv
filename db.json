@@ -34,6 +34,13 @@
       "year": 2019,
       "hora": 11,
       "minuto": 30
+    },
+    {
+      "dia": 5,
+      "mes": 10,
+      "year": 2019,
+      "hora": 13,
+      "minuto": 15
     }
   ],
   "miembros": [
@@ -68,6 +75,10 @@
     {
       "nombre": "Martín",
       "apellidos": "Gómez"
+    },
+    {
+      "nombre": "Angela",
+      "apellidos": "Dieguez"
     }
   ]
 }
